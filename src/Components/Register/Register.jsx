@@ -77,6 +77,7 @@ function RegisterForm() {
 
               <div className="inputGroup">
                 <label htmlFor="email">Email</label>
+                
                 <input
                 className="input"
                   type="email"
